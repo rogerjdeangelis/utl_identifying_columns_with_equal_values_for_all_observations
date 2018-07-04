@@ -12,7 +12,7 @@ Identifying duplicated column data in a single table in sas;.  Keywords: sas sql
     https://github.com/rogerjdeangelis/voodoo
 
 
-       WPS CompareSummary dataset was different from SAS. WPS identified.
+       WPS CompareSummary dataset was different from SAS. 
        WPS listed all columns with different values  using the VariableSummary dataset,
        but not the two with he same value.
 
