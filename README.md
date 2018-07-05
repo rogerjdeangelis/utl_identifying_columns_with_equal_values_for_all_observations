@@ -11,6 +11,9 @@ Identifying duplicated column data in a single table in sas;.  Keywords: sas sql
     part of my verification and validation tool
     https://github.com/rogerjdeangelis/voodoo
 
+     Bruce Gilsen Paper (worth a read)
+     https://analytics.ncsu.edu/sesug/2017/SESUG2017_Paper-74_Final_PDF.pdf
+
 
        WPS CompareSummary dataset was different from SAS. 
        WPS listed all columns with different values  using the VariableSummary dataset,
